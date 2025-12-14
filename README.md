@@ -5,7 +5,7 @@ An nice app for tracking your work and schedule for later and a good overall for
 run "npm install" inside the project folder<br>
 
 then run both 
-"npm init -y<br>
+"npm init -y"<br>
 "npm install electron --save-dev"
 
 run "npm start" to start the app as a preview<br>
