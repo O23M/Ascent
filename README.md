@@ -3,5 +3,5 @@ An nice app for tracking your work and schedule for later and a good overall for
 
 # To Use
 run "npm install" inside the project folder<br>
-run "npm start" to start the app as a preview
+run "npm start" to start the app as a preview<br>
 run npm run build to make, which then will appear a new folder called dist, which will have the setup which will make it an application locally
